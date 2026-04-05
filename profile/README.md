@@ -2,10 +2,12 @@
 
 [超链导航](https://href.host)（[href.host](https://href.host)）是一个安全稳定、权威纯粹的币圈交易所导航。通过智能采集和循环监测等技术手段实现主流交易所备用域名的管理维护，帮助全球用户避免网络限制也能够顺利访问各大知名交易所官方备用网址。以下为超链导航提供的部分热门交易所官网备用域名网址导航，欢迎大家体验。
 
-- 👋 欧易OKX备用域名网址导航：[https://href.host/okx](https://href.host/okx)
-- 🌱 币安Binance备用域名网址导航：[https://href.host/ba](https://href.host/ba)
-- ⚡ 火币HTX备用域名网址导航：[https://href.host/htx](https://href.host/htx)
-- 🤔 大门Gate备用域名网址导航：[https://href.host/gate](https://href.host/gate)
+- **🔥 欧易OKX备用域名网址导航**：[https://href.host/okx](https://href.host/okx) （[欧易APP下载](https://href.host/okxapp)）
+- **🌶️ 币安Binance备用域名网址导航**：[https://href.host/ba](https://href.host/ba) （[币安APP下载](https://href.host/baapp)）
+- **⚡ 火币HTX备用域名网址导航**：[https://href.host/htx](https://href.host/htx) （[火币APP下载](https://href.host/htxapp)）
+- **👋 大门Gate备用域名网址导航**：[https://href.host/gate](https://href.host/gate) （[Gate APP下载](https://href.host/gateapp)）
+- **🌱 Bitget备用域名网址导航**：[https://href.host/bitget](https://href.host/bitget) （[Bitget APP下载](https://href.host/bitgetapp)）
+- **🤔 Bybit备用域名网址导航**：[https://href.host/bybit](https://href.host/bybit)
 
 [超链导航](https://href.host)原理非常简单，首先通过各大交易所的官方渠道（TG电报群、X、官网、客服、节点发布页等）收集官网备用域名网址，所有币圈交易所备用域名均通过官网验证渠道查询核验后才会被收录，后期还会通过后台进行定期的多方位检测，做到超链导航所有备用域名的真实可靠及长期稳定
 
