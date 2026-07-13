@@ -3,7 +3,7 @@
 [超链导航](https://href.host)（[href.host](https://href.host)）是一个安全稳定、权威纯粹的币圈交易所导航。通过智能采集和循环监测等技术手段实现主流交易所备用域名的管理维护，帮助全球用户避免网络限制也能够顺利访问各大知名交易所官方备用网址。以下为超链导航提供的部分热门交易所官网备用域名网址导航，欢迎大家体验。
 
 - **🔥 欧易OKX备用域名网址导航**：[https://href.host/okx](https://href.host/okx) （[欧易APP下载](https://href.host/okxapp)）
-- **🌶️ 币安Binance备用域名网址导航**：[https://href.host/ba](https://href.host/ba) （[币安APP下载](https://href.host/baapp)）
+- **🌶️ 币安Binance备用域名网址导航**：[https://href.host/bn](https://href.host/bn) （[币安APP下载](https://href.host/bnapp)）
 - **⚡ 火币HTX备用域名网址导航**：[https://href.host/htx](https://href.host/htx) （[火币APP下载](https://href.host/htxapp)）
 - **👋 大门Gate备用域名网址导航**：[https://href.host/gate](https://href.host/gate) （[Gate APP下载](https://href.host/gateapp)）
 - **🌱 Bitget备用域名网址导航**：[https://href.host/bitget](https://href.host/bitget) （[Bitget APP下载](https://href.host/bitgetapp)）
